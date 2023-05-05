@@ -1,0 +1,30 @@
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.csproj.AssemblyReference.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.AssemblyInfoInputs.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.AssemblyInfo.cs
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.exe
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.deps.json
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.runtimeconfig.json
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.pdb
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\refint\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.pdb
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.genruntimeconfig.cache
+C:\Users\cesae\Desktop\Exercícios C#\Exercicio banco\Exercicio banco\obj\Debug\net6.0\ref\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.exe
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.deps.json
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.runtimeconfig.json
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\bin\Debug\net6.0\Exercicio banco.pdb
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.csproj.AssemblyReference.cache
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.AssemblyInfoInputs.cache
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.AssemblyInfo.cs
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.csproj.CoreCompileInputs.cache
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\refint\Exercicio banco.dll
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.pdb
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\Exercicio banco.genruntimeconfig.cache
+C:\Users\cesae\Desktop\Exercícios C#\Aula 28-04-2023\Exercicio banco\Exercicio banco\obj\Debug\net6.0\ref\Exercicio banco.dll
