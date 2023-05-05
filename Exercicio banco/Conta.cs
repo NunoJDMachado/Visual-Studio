@@ -11,7 +11,7 @@ namespace Exercicio_banco
       
         //Atributos
         
-        //private int _nconta;
+        private int _nconta;
         private string _tconta;       
         public double QuantiaDepInicial;
         private double _saldo;
