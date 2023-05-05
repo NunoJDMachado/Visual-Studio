@@ -14,7 +14,7 @@ namespace Exercicio_banco
         private int _nconta;
         private string _tconta;       /*dasdsad*/
         public double QuantiaDepInicial;
-        private double _saldo;
+        private double _saldo;/*adas*/
         public char DepInicialResposta;
 
         //Construtores
