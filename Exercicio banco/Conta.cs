@@ -12,7 +12,7 @@ namespace Exercicio_banco
         //Atributos
         
         private int _nconta;
-        private string _tconta;       
+        private string _tconta;       /*dasdsad*/
         public double QuantiaDepInicial;
         private double _saldo;
         public char DepInicialResposta;
